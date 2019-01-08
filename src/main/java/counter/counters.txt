@@ -1,0 +1,4 @@
+jim	1	28
+kate	0	26
+tom	1
+lily	0	29	22

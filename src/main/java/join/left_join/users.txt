@@ -1,0 +1,6 @@
+anne	22	NY
+joe	39	CO
+alison	35	NY
+mike	69	VA
+marie	27	OR
+
