@@ -1,3 +1,4 @@
-output/*
+output/:
 *.class
 target
+bin

@@ -1,0 +1,7 @@
+cat	t1.txt  
+dark	t1.txt  t2.txt  
+dog	t1.txt  
+house	t2.txt  
+mouse	t1.txt  
+pig	t1.txt  t2.txt  
+wheel	t2.txt  
