@@ -16,8 +16,8 @@
       <file leaf-file-name="SemiJoin_Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/join/semi/SemiJoin_Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="48" column="37" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+            <state relative-caret-position="224">
+              <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/join/left_join/LeftJoin_Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="452">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -164,11 +164,6 @@
             <path>
               <item name="mapreduce" type="b2602c69:ProjectViewProjectNode" />
               <item name="mapreduce" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mapreduce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mapreduce" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -277,7 +272,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SemiJoin_Main">
+  <component name="RunManager" selected="Application.WordCount2">
     <configuration name="Test1" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="sh" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -546,8 +541,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SemiJoin_Main" />
         <item itemvalue="Application.WordCount2" />
+        <item itemvalue="Application.SemiJoin_Main" />
         <item itemvalue="Application.InnerJoin_Main" />
         <item itemvalue="JUnit.Test1" />
         <item itemvalue="Android JUnit.Test1" />
@@ -617,7 +612,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32924226" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32794458" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32794458" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="2" />
@@ -878,7 +873,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/SemiJoinOutput/part-r-00000" />
     <entry file="file://$PROJECT_DIR$/src/main/java/big_small_table/BS_Mapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -976,17 +970,20 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/join/left_join/LeftJoin_Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="452">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/output/SemiJoinOutput/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/join/semi/SemiJoin_Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="48" column="37" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+        <state relative-caret-position="224">
+          <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
