@@ -18,4 +18,8 @@ public class Test1 {
             System.out.println(tokenizer.nextToken());
         }
     }
+    @Test
+    public void stringComparator() {
+        System.out.println("18".compareTo("19"));
+    }
 }

@@ -1,0 +1,63 @@
+* Customers
+
+客户
+
+| 列名         | 描述   |
+|--------------+--------|
+| cust_id      | 客户id |
+| cust_name    | 姓名   |
+| cust_address | 地址   |
+| cust_city    | 城市   |
+| cust_state   | 州     |
+| cust_zip     | 邮编   |
+| cust_country | 国家   |
+| cust_contact | 联系人 |
+| cust_email   | email  |
+
+* Products
+
+产品
+
+| 列名       | 描述     |
+|------------+----------|
+| prod_id    | 产品id   |
+| vend_id    | 供应商id |
+| prod_name  | 产品名称 |
+| prod_price | 产品价格 |
+| prod_desc  | 产品描述 |
+
+* Vendors
+
+供应商
+
+| 列名         | 描述     |
+|--------------+----------|
+| vend_id      | 供应商id |
+| vend_name    | 名称     |
+| vend_address | 地址     |
+| vend_city    | 城市     |
+| vend_state   | 州       |
+| vend_zip     | 邮编     |
+| vend_country | 国家     |
+
+* Orders
+
+订单
+
+| 列名       | 描述     |
+|------------+----------|
+| order_num  | 订单编号 |
+| order_date | 订单日期 |
+| cust_id    | 客户id   |
+
+* OrderItems
+
+订单项
+
+| 列名       | 描述       |
+|------------+------------|
+| order_num  | 订单编号   |
+| order_item | 订单项编号 |
+| prod_id    | 产品id     |
+| quantity   | 该项的数量 |
+| item_price | 该项的价格 |
