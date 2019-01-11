@@ -2,6 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a527407a-4b35-4507-bda4-53665a028cb4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce_test/data/Customers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce_test/data/OrderItems.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce_test/data/Orders.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce_test/data/Products.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce_test/data/Vendors.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce_test/problem1/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce_test/problem1/Problem1_Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce_test/problem1/Problem1_Reducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce_test/problem1/题目1-c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce_test/problem2/Problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce_test/problem2/Problem2_Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce_test/problem2/Problem2_Reducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce_test/problem2/ProductText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce_test/problem2/题目2-c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce_test/problem3/Problem3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce_test/problem3/题目1-a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce_test/problem4/Problem4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce_test/problem4/题目2-a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce_test/数据说明.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/join/Join_Comparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/join/Join_Comparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/join/semi/SemiJoin_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/join/semi/SemiJoin_Main.java" afterDir="false" />
@@ -41,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem2_Reducer.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Problem2_Reducer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce_test/problem2/Problem2_Reducer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="511">
@@ -51,29 +71,6 @@
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Vendors.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce_test/data/Vendors.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Products.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce_test/data/Products.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="part-r-00000" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/output/mapreduceOutput/part-r-00000">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -195,6 +192,11 @@
             <path>
               <item name="sh" type="b2602c69:ProjectViewProjectNode" />
               <item name="sh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sh" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sh" type="b2602c69:ProjectViewProjectNode" />
@@ -668,8 +670,8 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32924226" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27282608" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32934782" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27282608" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="2" />
@@ -1012,16 +1014,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce_test/problem2/Problem2_Reducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce_test/data/OrderItems.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -1039,10 +1031,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce_test/data/Vendors.csv">
+    <entry file="file://$PROJECT_DIR$/output/mapreduceOutput/part-r-00000">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1053,8 +1045,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/mapreduceOutput/part-r-00000">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce_test/data/Vendors.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapreduce_test/problem2/Problem2_Reducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
