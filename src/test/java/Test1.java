@@ -6,9 +6,7 @@
 import mapreduce_test.problem2.ProductText;
 import org.junit.Test;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.StringTokenizer;
+import java.util.*;
 
 public class Test1 {
 
@@ -33,5 +31,29 @@ public class Test1 {
         for (ProductText product : products) {
             System.out.println(System.identityHashCode(product));
         }
+    }
+
+    @Test
+    public void stringComparator() {
+        System.out.println("18".compareTo("19"));
+    }
+
+    @Test
+    public void splitTest() {
+        String str = "1,2,3,,4";
+        String[] sp = str.split(",");
+        System.out.println(sp[3].equals(""));
+    }
+
+    @Test
+    public void MapTest() {
+        Map<String, String> map = new HashMap<>();
+        map.put("1", "2");
+        map.put("2", "3");
+        map.put("3", "5");
+        System.out.println(map.get("3"));
+//        for (Map.Entry<String, String> entry : map.entrySet()) {
+//            System.out.println(entry.getKey() + "\t" + entry.getValue());
+//        }
     }
 }

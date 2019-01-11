@@ -111,9 +111,9 @@ public class Problem4 extends Configured implements Tool {
         job.setOutputKeyClass(Text.class);
         job.setOutputValueClass(FloatWritable.class);
         // input and output
-        FileInputFormat.addInputPath(job, new Path("/home/meta/software/IdeaProjects/sh/src/main/java/mapreduce_test/data/Orders.csv"));
-        FileInputFormat.addInputPath(job, new Path("/home/meta/software/IdeaProjects/sh/src/main/java/mapreduce_test/data/OrderItems.csv"));
-        FileOutputFormat.setOutputPath(job, new Path("./output/002"));
+        FileInputFormat.addInputPath(job, new Path(strings[0]));
+        FileInputFormat.addInputPath(job, new Path(strings[1]));
+        FileOutputFormat.setOutputPath(job, new Path(strings[2]));
         return job.waitForCompletion(true) ? 0 : 1;
     }
 

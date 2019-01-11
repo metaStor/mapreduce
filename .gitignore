@@ -1,4 +1,5 @@
-output/*
+/output/*
 *.class
 target
-.idea/workspace.xml
+bin
+/.idea/workspace.xml
