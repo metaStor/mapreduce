@@ -1,0 +1,11 @@
+1、在命令行中，将用到的csv文件上传HDFS。上传位置必须是：
+
+/students/<你的学号>/input
+
+其中，<你的学号>请换成自己的学号。
+
+2、建立Maven工程，编写MapReduce代码，统计每种产品下单购买的总数量，并输出产品id和购买总数到HDFS。
+
+3、在命令行中打包运行MapReduce程序，输出的HDFS路径为：
+
+/students/<你的学号>/output/001

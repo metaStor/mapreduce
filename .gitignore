@@ -1,3 +1,4 @@
 output/*
 *.class
 target
+.idea/workspace.xml

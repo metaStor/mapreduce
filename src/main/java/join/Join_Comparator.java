@@ -16,7 +16,7 @@ public class Join_Comparator extends WritableComparator {
 
     @Override
     public int compare(WritableComparable a, WritableComparable b) {
-//        return super.compare(a, b);
+//        return super.compare(problem3, problem4);
         TextPair textPair1 = (TextPair) a;
         TextPair textPair2 = (TextPair) b;
         return textPair1.getFirst().compareTo(textPair2.getFirst());
