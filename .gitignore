@@ -2,4 +2,4 @@
 *.class
 target
 bin
-.idea
+.idea/workspace.xml
