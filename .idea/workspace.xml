@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a527407a-4b35-4507-bda4-53665a028cb4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sum_avg_group/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sum_avg_group/p1/p1_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sum_avg_group/p1/p1_Mapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sum_avg_group/p1/p1_Reducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sum_avg_group/p2/p2_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sum_avg_group/p2/p2_Mapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sum_avg_group/p2/p2_Reducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sum_avg_group/p3/p3_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sum_avg_group/p3/p3_Mapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sum_avg_group/p3/p3_Reducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sum_avg_group/p4/p4_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sum_avg_group/p4/p4_Mapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sum_avg_group/p4/p4_Reducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mapreduce_test/problem2/Problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mapreduce_test/problem2/Problem2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mapreduce_test/problem4/Problem4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mapreduce_test/problem4/Problem4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sum_avg_group/SAG_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sum_avg_group/questions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sum_avg_group/emp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sum_avg_group/emp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test1.java" afterDir="false" />
-    </list>
+    <list default="true" id="a527407a-4b35-4507-bda4-53665a028cb4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,32 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="p6_Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sum_avg_group/p6/p6_Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p6_Mapper.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sum_avg_group/p6/p6_Mapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -222,15 +175,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sum_avg_group" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sh" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sum_avg_group" type="462c0819:PsiDirectoryNode" />
-              <item name="p6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sh" type="b2602c69:ProjectViewProjectNode" />
@@ -625,7 +569,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -636,7 +579,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32924226" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32934782" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3173913" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3173913" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="2" />
@@ -977,16 +920,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sum_avg_group/p6/p6_Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -1022,6 +955,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
           <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sum_avg_group/p6/p6_Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
